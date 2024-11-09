@@ -13,7 +13,7 @@ A collection of farming and mining bots made for Minera.
 
 ### Farm Bots
 - Class specific farming
-- - Automatic mob farm
+- Automatic mob farm
 - Automatic movement between abyss floors
 
 
