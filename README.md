@@ -18,9 +18,9 @@ A collection of farming and mining bots made for Minera.
 
 
 ## Installation
-1. Download the latest .jar from the Releases section
-2. Place it in your Minecraft mods folder (requires Fabric along wiht FabricAPI)
-3. Launch Minecraft
+1. Download the latest release from the [Releases](../../releases) page
+2. Place the .jar file in your Minecraft mods folder
+3. Launch Minecraft with Fabric loader
 
 ## Usage
 Default keybinds (can be changed in Minecraft controls menu):
