@@ -6,7 +6,7 @@ A collection of farming and mining bots made for Minera.
 
 ### Mining Bot
 - Automated ore mining with configurable patterns
-- Left-right movement pattern (7 blocks)
+- Left to right movement pattern (7 blocks)
 - Mines 10 blocks at each location
 - Tab-out support
 - Auto-clicks green pane in captcha
