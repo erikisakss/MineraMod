@@ -28,7 +28,7 @@ Default keybinds (can be changed in Minecraft controls menu):
 - `H`: Start Assassin Farm
 - `P`: Start Priest Farm
 - `K`: Start/Stop Mining Bot
-- `G`: Held down for Quicksell in all slots except hotbar, armor, jewelry
+- `Ctrl + G`: Held down for Quicksell in all slots except hotbar, armor, jewelry. Won't sell ores, gems, or fragments even if in inventory
 
 ## Compatibility
 - Minecraft Version: 1.17.1
