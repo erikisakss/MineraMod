@@ -16,6 +16,12 @@ A collection of farming and mining bots made for Minera.
 - Automatic mob farm
 - Automatic movement between abyss floors
 
+## Quick Sell
+- Sells items from highligted slots
+- Won't sell ores, fragments, or gems
+![image](https://github.com/user-attachments/assets/8162b9f5-1d67-41bd-a73e-85d922744160)
+
+
 
 ## Installation
 1. Download the latest release from the [Releases](../../releases) page
