@@ -32,5 +32,5 @@ Default keybinds (can be changed in Minecraft controls menu):
 
 ## Compatibility
 - Minecraft Version: 1.17.1
-- Requires Fabric Loader
+- Requires Fabric Loader & Fabric API
 - Server-specific features may not work elsewhere
