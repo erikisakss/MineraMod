@@ -19,6 +19,9 @@ A collection of farming and mining bots made for Minera.
 ## Quick Sell
 - Sells items from highligted slots
 - Won't sell ores, fragments, or gems
+- Won't sell Unique jewelry or Legendary items
+- Won't sell items that are +2 or higher
+- Won't sell your pickaxe or fishing rod
 ![image](https://github.com/user-attachments/assets/8162b9f5-1d67-41bd-a73e-85d922744160)
 
 
